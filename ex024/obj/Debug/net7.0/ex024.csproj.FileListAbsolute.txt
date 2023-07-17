@@ -1,0 +1,15 @@
+D:\Livro Algoritmos\resolucoes\lista02\ex024\bin\Debug\net7.0\ex024.exe
+D:\Livro Algoritmos\resolucoes\lista02\ex024\bin\Debug\net7.0\ex024.deps.json
+D:\Livro Algoritmos\resolucoes\lista02\ex024\bin\Debug\net7.0\ex024.runtimeconfig.json
+D:\Livro Algoritmos\resolucoes\lista02\ex024\bin\Debug\net7.0\ex024.dll
+D:\Livro Algoritmos\resolucoes\lista02\ex024\bin\Debug\net7.0\ex024.pdb
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.csproj.AssemblyReference.cache
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.AssemblyInfoInputs.cache
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.AssemblyInfo.cs
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.csproj.CoreCompileInputs.cache
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.dll
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\refint\ex024.dll
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.pdb
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ex024.genruntimeconfig.cache
+D:\Livro Algoritmos\resolucoes\lista02\ex024\obj\Debug\net7.0\ref\ex024.dll
